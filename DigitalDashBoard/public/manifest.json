@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Dashboard",
+  "version": "1.0",
+  "description": "A digital dashboard with multiple widgets",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
